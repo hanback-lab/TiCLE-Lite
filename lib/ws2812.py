@@ -1,6 +1,3 @@
-__version__ = "1.1.0-stripped"
-__author__ = "PlanX Lab Development Team"
-
 import math, utime, array, gc, machine, micropython, rp2
 
 gc.threshold(20480)
